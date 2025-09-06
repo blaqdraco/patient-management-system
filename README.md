@@ -1,13 +1,16 @@
-###### Copyright © 2025 Code Jackal | Original Course Material by Chris Blakely and modified by Blaqdraco
+Patient Management System
 
----
-# Join the Discord Community
+This project was originally developed by **Blakely**.  
+I am using the boilerplate code as a base for system reuse, customization, and further modification.
 
-This source code is for the Java/Spring microservices course available on my 
-YouTube channel. You can join the discord for help and discussion here:
+## ⚡ Purpose
+- Reuse existing boilerplate for faster development.
+- Extend and modify features to fit new requirements.
+- Learn and adapt system design best practices.
 
-https://discord.gg/nCrDnfCE
-
+## 🚀 Notes
+- Credit to the original author: Blakely.
+- Future commits will reflect my custom changes and improvements.
 
 # Patient Service
 
